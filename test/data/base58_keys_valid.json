@@ -1,0 +1,74 @@
+[
+    [
+        "Xj8zJnj7xxXstimrGWgkDN9SDuAoviM9Gu",
+        "5cb2e549012c855f58d7d91aca78151c1cb5eab6",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "3CMNFxN1oHBc4R1EpboAL5yzHGgE611Xou",
+        "74f209f6ea907e2ea48f74fae05782ae8a665257",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": false
+        }
+    ],
+    [
+        "mo9ncXisMeAoXwqcV5EWuyncbmCcQN4rVs",
+        "53c0307d6851aa0ce7825ba883c6bd9ad242b486",
+        {
+            "addrType": "pubkey",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "2N2JD6wb56AfK4tfmM6PwdVmoYk2dCKf4Br",
+        "6349a418fc4578d10a372b54b45c280cc8c4382f",
+        {
+            "addrType": "script",
+            "isPrivkey": false,
+            "isTestnet": true
+        }
+    ],
+    [
+        "7rtGvW68UH6rRwsqDxFWX1aw4fneHWs2m2PcKFUU1Gq6mKmYQ31",
+        "afc66145a5bfda8306d597295f49da4b3eaaa9b0ad82400681532383b6cdb605",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "XHBKH9PdyQ4qB7DMrAs3HTamdCCTZtopmK8nsYtECCsJSZxWttYP",
+        "afc66145a5bfda8306d597295f49da4b3eaaa9b0ad82400681532383b6cdb605",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": false
+        }
+    ],
+    [
+        "9213qJab2HNEpMpYNBa7wHGFKKbkDn24jpANDs2huN3yi4J11ko",
+        "36cb93b9ab1bdabf7fb9f2c04f1b9cc879933530ae7842398eef5a63a56800c2",
+        {
+            "isCompressed": false,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ],
+    [
+        "cTpB4YiyKiBcPxnefsDpbnDxFDffjqJob8wGCEDXxgQ7zQoMXJdH",
+        "b9f4892c9e8282028fea1d2667c4dc5213564d41fc5783896a0d843fc15089f3",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "isTestnet": true
+        }
+    ]
+]

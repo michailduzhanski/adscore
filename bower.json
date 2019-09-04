@@ -1,0 +1,26 @@
+{
+  "name": "darkcore",
+  "main": "browser/bundle.js",
+  "version": "0.1.40",
+  "authors": [
+    "UdjinM6 (<udjinm6@gmail.com>)",
+    "Ryan X. Charles (<ryan@bitpay.com>)"
+  ],
+  "description": "A pure, powerful core for your darkcoin project. Based on bitcore.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "darkcoin",
+    "darkcore",
+    "drk",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
