@@ -1,5 +1,5 @@
 {
-  "name": "darkcore",
+  "name": "adscore",
   "main": "browser/bundle.js",
   "version": "0.1.40",
   "authors": [
@@ -11,8 +11,9 @@
     "globals"
   ],
   "keywords": [
-    "darkcoin",
-    "darkcore",
+    "adsplace",
+	"pivx",
+    "adscore",
     "drk",
     "satoshi"
   ],
