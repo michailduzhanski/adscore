@@ -1,5 +1,5 @@
 {
-  "name": "darkcore",
+  "name": "adscore",
   "description": "Darkcoin Library based on Bitcore (https://github.com/bitpay/bitcore.git)",
   "version": "0.1.41",
   "author": {
@@ -51,7 +51,7 @@
   "main": "bitcore.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/udjinm6/darkcore.git"
+    "url": "https://github.com/michailduzhanski/adscore.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
