@@ -1,7 +1,7 @@
 Adscore
 =======
 
-[![Build Status](https://travis-ci.org/UdjinM6/darkcore.svg?branch=master)](https://travis-ci.org/UdjinM6/darkcore)
+[![Build Status](https://travis-ci.org/michailduzhanski/adscore.svg?branch=master)](https://travis-ci.org/michailduzhanski/adscore)
 
 A pure, powerful core for your Adsplace project.
 
@@ -12,7 +12,9 @@ Forked from Bitcore ([https://github.com/bitpay/bitcore](https://github.com/bitp
 
 #License
 
-**Code released under [the MIT license](https://github.com/UdjinM6/darkcore/blob/master/LICENSE).**
+**Code released under [the MIT license](https://github.com/michailduzhanski/adscore/blob/master/LICENSE).**
+
+Copyright (c) 2019 michailduzhanski
 
 Copyright (c) 2019 TheLazieR Yip
 
